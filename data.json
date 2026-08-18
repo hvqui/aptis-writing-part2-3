@@ -230,6 +230,52 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "sport-club",
+            "name": "SPORT CLUB",
+            "part2": {
+                "question": "You are a new member of a sport club. Fill in the form. Write in sentences. Use 20 – 30 words.",
+                "questionTranslation": "(Bạn là thành viên mới của câu lạc bộ thể thao. Điền vào biểu mẫu. Viết thành các câu hoàn chỉnh. Sử dụng từ 20 – 30 từ.)",
+                "subQuestion": "Please tell me why you want to join the club?",
+                "subQuestionTranslation": "(Hãy cho tôi biết tại sao bạn muốn tham gia câu lạc bộ?)",
+                "minWords": 20,
+                "maxWords": 30,
+                "sampleAnswer": "I want to join the sport club to improve my fitness and learn new skills. I enjoy staying active, meeting new people, and participating in fun sports activities. It’s a great opportunity!",
+                "sampleAnswerTranslation": "Tôi muốn tham gia câu lạc bộ thể thao để nâng cao thể lực và học thêm các kỹ năng mới. Tôi thích duy trì sự năng động, gặp gỡ những người bạn mới và tham gia vào các hoạt động thể thao thú vị. Đây là một cơ hội tuyệt vời!"
+            },
+            "part3": {
+                "instruction": "You are a member of a sport club. You are talking to three other members in the sport club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
+                "instructionTranslation": "(Bạn là thành viên của câu lạc bộ thể thao. Bạn đang trò chuyện với 3 thành viên khác trong phòng chat. Trả lời họ bằng các câu hoàn chỉnh. Sử dụng từ 30 – 40 từ cho mỗi câu trả lời.)",
+                "minWords": 30,
+                "maxWords": 40,
+                "chats": [
+                    {
+                        "id": "A",
+                        "user": "Member A",
+                        "message": "When was the last time you played sports?",
+                        "messageTranslation": "(Lần cuối cùng bạn chơi thể thao là khi nào?)",
+                        "sampleAnswer": "Glad to talk to you! The last time I played sports was last Saturday. I went jogging in the park. It was a good workout, and I felt refreshed after being outside.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Lần cuối cùng tôi chơi thể thao là vào thứ Bảy tuần trước. Tôi đã đi chạy bộ trong công viên. Đó là một buổi tập luyện tốt và tôi cảm thấy rất sảng khoái sau khi ra ngoài trời."
+                    },
+                    {
+                        "id": "B",
+                        "user": "Member B",
+                        "message": "I usually play sports with my friend and watch sports programs. What about you?",
+                        "messageTranslation": "(Tôi thường chơi thể thao với bạn bè và xem các chương trình thể thao. Còn bạn thì sao?)",
+                        "sampleAnswer": "Glad to talk to you! I enjoy playing sports with my friends as well. We usually play basketball or soccer together. Watching sports programs is fun because I can see new plays and strategies.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Tôi cũng rất thích chơi thể thao với bạn bè. Chúng tôi thường chơi bóng rổ hoặc bóng đá cùng nhau. Xem các chương trình thể thao cũng rất thú vị vì tôi có thể học hỏi thêm các lối chơi và chiến thuật mới."
+                    },
+                    {
+                        "id": "C",
+                        "user": "Member C",
+                        "message": "Do you think it’s okay for my brother to play sports alone?",
+                        "messageTranslation": "(Bạn có nghĩ việc anh/em trai tôi chơi thể thao một mình là ổn không?)",
+                        "sampleAnswer": "Glad to talk to you! I believe it’s okay for your brother to play alone. Some people prefer individual sports because it helps them focus better. But playing with friends is also a lot of fun.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Tôi tin rằng việc anh/em trai bạn chơi một mình hoàn toàn ổn. Một số người thích các môn thể thao cá nhân hơn vì nó giúp họ tập trung tốt hơn. Tuy nhiên, chơi cùng bạn bè cũng mang lại rất nhiều niềm vui."
+                    }
+                ]
+            }
         }
     ]
 }
