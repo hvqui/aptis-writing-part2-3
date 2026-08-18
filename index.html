@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aptis Writing Practice (Part 2 & 3)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header-bar">
+            <h1 id="appTitle">APTIS WRITING PRACTICE</h1>
+            <div class="timer-box" id="timer">⏱️ Thời gian: 00:00</div>
+        </div>
+
+        <div class="controls-bar">
+            <div class="select-group">
+                <label for="clubSelect">Chủ đề (Club):</label>
+                <select id="clubSelect"></select>
+            </div>
+            <div class="nav-tabs">
+                <button type="button" class="tab-btn active" id="tabPart2">PART 2</button>
+                <button type="button" class="tab-btn" id="tabPart3">PART 3</button>
+            </div>
+        </div>
+
+        <form id="quizForm">
+            <!-- Khu vực Part 2 -->
+            <div id="part2Section" class="part-section active">
+                <div class="instruction" id="p2Instruction"></div>
+                <div class="question-block">
+                    <div class="question-title" id="p2Question"></div>
+                    <textarea id="p2Answer" lang="en" spellcheck="true"
+                        placeholder="Type your response here (20-30 words)..."></textarea>
+                    <div class="word-count" id="p2WordCount">Số từ: 0 (Mục tiêu: 20-30 từ)</div>
+                    <div class="result-box" id="p2Result"></div>
+                </div>
+            </div>
+
+            <!-- Khu vực Part 3 -->
+            <div id="part3Section" class="part-section">
+                <div class="instruction" id="p3Instruction"></div>
+                <div id="p3ChatContainer"></div>
+            </div>
+
+            <div class="btn-container">
+                <button type="button" id="checkBtn">Kiểm Tra Kết Quả</button>
+                <button type="button" id="resetBtn" class="secondary-btn">Reset Tất Cả</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,235 @@
+{
+    "title": "APTIS WRITING PRACTICE PART 2-3",
+    "clubs": [
+        {
+            "id": "food-club",
+            "name": "FOOD CLUB",
+            "part2": {
+                "question": "You are a new member of a food club. Fill in the form. Write in sentences. Use 20 – 30 words.",
+                "questionTranslation": "(Bạn là thành viên mới của câu lạc bộ ẩm thực. Điền vào biểu mẫu. Viết thành các câu hoàn chỉnh. Sử dụng từ 20 – 30 từ.)",
+                "subQuestion": "When and where do you usually eat meals?",
+                "subQuestionTranslation": "(Bạn thường ăn các bữa ăn khi nào và ở đâu?)",
+                "minWords": 20,
+                "maxWords": 30,
+                "sampleAnswer": "I usually have breakfast and dinner at home with my family. However, on weekdays, I often eat lunch at a small canteen near my workplace around 12 PM.",
+                "sampleAnswerTranslation": "Tôi thường ăn sáng và tối ở nhà cùng gia đình. Tuy nhiên, vào các ngày trong tuần, tôi thường ăn trưa tại một nhà ăn nhỏ gần nơi làm việc vào khoảng 12 giờ trưa."
+            },
+            "part3": {
+                "instruction": "You are a member of a food club. You are talking to three other members in the food club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
+                "instructionTranslation": "(Bạn là thành viên của câu lạc bộ ẩm thực. Bạn đang trò chuyện với 3 thành viên khác trong phòng chat. Trả lời họ bằng các câu hoàn chỉnh. Sử dụng từ 30 – 40 từ cho mỗi câu trả lời.)",
+                "minWords": 30,
+                "maxWords": 40,
+                "chats": [
+                    {
+                        "id": "A",
+                        "user": "Member A",
+                        "message": "Tell me about a time you ate a nice meal?",
+                        "messageTranslation": "(Hãy kể cho tôi nghe về một lần bạn ăn một bữa ăn ngon?)",
+                        "sampleAnswer": "Glad to talk to you! Last Sunday, I had a wonderful dinner at a cozy restaurant with my family. We enjoyed grilled seafood and some traditional Vietnamese dishes. The atmosphere was very warm, and the food was absolutely delicious.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Chủ Nhật tuần trước, tôi đã có một bữa tối tuyệt vời tại một nhà hàng ấm cúng cùng gia đình. Chúng tôi đã thưởng thức hải sản nướng và một số món ăn truyền thống Việt Nam. Không khí rất ấm áp và đồ ăn thì cực kỳ ngon."
+                    },
+                    {
+                        "id": "B",
+                        "user": "Member B",
+                        "message": "Tell me about a place to eat local food? What kind of food?",
+                        "messageTranslation": "(Hãy kể cho tôi về một nơi để ăn món ăn địa phương? Đó là loại thức ăn gì?)",
+                        "sampleAnswer": "Nice to meet you! If you visit Hanoi, you should definitely try \"Pho\" at a small restaurant in the Old Quarter. It is a very famous traditional noodle soup in Vietnam. The beef is tender and the broth is extremely flavorful and tasty.",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Nếu bạn đến thăm Hà Nội, bạn nhất định nên thử \"Phở\" tại một quán ăn nhỏ ở Phố Cổ. Đây là món phở truyền thống rất nổi tiếng ở Việt Nam. Thịt bò mềm và nước dùng cực kỳ đậm đà, thơm ngon."
+                    },
+                    {
+                        "id": "C",
+                        "user": "Member C",
+                        "message": "People are likely to eat more and more fast food. It is unhealthy and they should eat less. What do you think?",
+                        "messageTranslation": "(Mọi người có xu hướng ngày càng ăn nhiều đồ ăn nhanh hơn. Nó không tốt cho sức khỏe và họ nên ăn ít lại. Bạn nghĩ sao?)",
+                        "sampleAnswer": "Glad to talk to you! I totally agree with you. Fast food is convenient but contains too much oil and sugar. In my opinion, people should cook at home more often to stay healthy and save money. Eating fresh vegetables is always a better choice.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Tôi hoàn toàn đồng ý với bạn. Đồ ăn nhanh tuy tiện lợi nhưng lại chứa quá nhiều dầu mỡ và đường. Theo tôi, mọi người nên nấu ăn ở nhà thường xuyên hơn để giữ gìn sức khỏe và tiết kiệm tiền. Ăn rau tươi luôn là sự lựa chọn tốt hơn."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "book-club",
+            "name": "BOOK CLUB",
+            "part2": {
+                "question": "You are a new member of a book club. Fill in the form. Write in sentences. Use 20 – 30 words.",
+                "questionTranslation": "(Bạn là thành viên mới của câu lạc bộ đọc sách. Điền vào biểu mẫu. Viết thành các câu hoàn chỉnh. Sử dụng từ 20 – 30 từ.)",
+                "subQuestion": "When and where do you usually read books?",
+                "subQuestionTranslation": "(Bạn thường đọc sách khi nào và ở đâu?)",
+                "minWords": 20,
+                "maxWords": 30,
+                "sampleAnswer": "I usually read books in my school library. Additionally, I prefer reading books with my son in the evening at home.",
+                "sampleAnswerTranslation": "Tôi thường đọc sách ở thư viện trường. Ngoài ra, tôi thích đọc sách cùng con trai vào buổi tối ở nhà hơn."
+            },
+            "part3": {
+                "instruction": "You are a member of a book club. You are talking to three other members in the book club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
+                "instructionTranslation": "(Bạn là thành viên của câu lạc bộ đọc sách. Bạn đang trò chuyện với 3 thành viên khác trong phòng chat. Trả lời họ bằng các câu hoàn chỉnh. Sử dụng từ 30 – 40 từ cho mỗi câu trả lời.)",
+                "minWords": 30,
+                "maxWords": 40,
+                "chats": [
+                    {
+                        "id": "A",
+                        "user": "Member A",
+                        "message": "In the future, nobody reads traditional books as everything is on the computer. What do you think about this?",
+                        "messageTranslation": "(Trong tương lai, sẽ không ai đọc sách truyền thống nữa vì mọi thứ đều có trên máy tính. Bạn nghĩ sao về điều này?)",
+                        "sampleAnswer": "Glad to talk to you! I don’t agree. Many people enjoy reading paper books because they are comfortable and easy to read. I think computers are useful but traditional books will still be popular with many readers in the future.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Tôi không đồng ý. Nhiều người thích đọc sách giấy vì chúng thoải mái và dễ đọc. Tôi nghĩ máy tính rất hữu ích nhưng sách truyền thống vẫn sẽ phổ biến với nhiều độc giả trong tương lai."
+                    },
+                    {
+                        "id": "B",
+                        "user": "Member B",
+                        "message": "Tell me about your favorite time and place to read a book?",
+                        "messageTranslation": "(Hãy kể cho tôi nghe về thời gian và địa điểm đọc sách yêu thích của bạn?)",
+                        "sampleAnswer": "Nice to meet you! My favorite time to read is in the evening after dinner. I usually read books on my apartment balcony. I love this time because it helps me relax after a busy day.",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Thời gian đọc sách yêu thích của tôi là vào buổi tối sau bữa ăn. Tôi thường đọc sách trên ban công căn hộ của mình. Tôi thích thời gian này vì nó giúp tôi thư giãn sau một ngày bận rộn."
+                    },
+                    {
+                        "id": "C",
+                        "user": "Member C",
+                        "message": "I bought a book as a gift for my friend but I don't know what kind of book he likes. Can you give me some advice?",
+                        "messageTranslation": "(Tôi đã mua một cuốn sách làm quà tặng cho bạn tôi nhưng tôi không biết anh ấy thích thể loại sách nào. Bạn có thể cho tôi vài lời khuyên không?)",
+                        "sampleAnswer": "Glad to talk to you! You should ask his close friends about his favorite genres. If you are still not sure, you can buy a technology or self-help book because many people enjoy them.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Bạn nên hỏi bạn thân của anh ấy về thể loại yêu thích. Nếu vẫn không chắc chắn, bạn có thể mua một cuốn sách về công nghệ hoặc phát triển bản thân vì nhiều người rất thích chúng."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "computer-club",
+            "name": "COMPUTER CLUB",
+            "part2": {
+                "question": "You are a new member of a computer club. Fill in the form. Write in sentences. Use 20 – 30 words.",
+                "questionTranslation": "(Bạn là thành viên mới của câu lạc bộ máy tính. Điền vào biểu mẫu. Viết thành các câu hoàn chỉnh. Sử dụng từ 20 – 30 từ.)",
+                "subQuestion": "When and where do you use a computer?",
+                "subQuestionTranslation": "(Bạn sử dụng máy tính khi nào và ở đâu?)",
+                "minWords": 20,
+                "maxWords": 30,
+                "sampleAnswer": "I use a computer every day at home and at work. I use it to study, read emails, watch videos and search for information.",
+                "sampleAnswerTranslation": "Tôi sử dụng máy tính mỗi ngày ở nhà và ở nơi làm việc. Tôi dùng nó để học tập, đọc email, xem video và tìm kiếm thông tin."
+            },
+            "part3": {
+                "instruction": "You are a member of a computer club. You are talking to three other members in the computer club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
+                "instructionTranslation": "(Bạn là thành viên của câu lạc bộ máy tính. Bạn đang trò chuyện với 3 thành viên khác trong phòng chat. Trả lời họ bằng các câu hoàn chỉnh. Sử dụng từ 30 – 40 từ cho mỗi câu trả lời.)",
+                "minWords": 30,
+                "maxWords": 40,
+                "chats": [
+                    {
+                        "id": "A",
+                        "user": "Member A",
+                        "message": "My grandmother doesn't know anything about computers? How can she learn about them? What should she do?",
+                        "messageTranslation": "(Bà của tôi không biết gì về máy tính cả? Làm thế nào bà có thể học về chúng? Bà nên làm gì?)",
+                        "sampleAnswer": "Nice to meet you! I think she should start with a basic computer class. She can also ask her family to help her. She should practice using a computer every day because practice makes learning easier.",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Tôi nghĩ bà nên bắt đầu với một lớp học máy tính cơ bản. Bà cũng có thể nhờ gia đình giúp đỡ. Bà nên thực hành sử dụng máy tính mỗi ngày vì luyện tập giúp việc học dễ dàng hơn."
+                    },
+                    {
+                        "id": "B",
+                        "user": "Member B",
+                        "message": "I love new technology. Can you please tell me about the last time you used a computer to do work or do something?",
+                        "messageTranslation": "(Tôi rất yêu công nghệ mới. Bạn có thể kể cho tôi về lần gần đây nhất bạn dùng máy tính để làm việc hoặc làm điều gì đó không?)",
+                        "sampleAnswer": "Glad to talk to you! The last time I used a computer was yesterday. I used it at home to finish some work, send emails, and search for information. It helped me complete my tasks quickly.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Lần cuối tôi dùng máy tính là ngày hôm qua. Tôi dùng nó ở nhà để hoàn thành một số việc, gửi email và tìm kiếm thông tin. Nó giúp tôi hoàn thành công việc nhanh chóng."
+                    },
+                    {
+                        "id": "C",
+                        "user": "Member C",
+                        "message": "Young people spend too much time using computers. Some say it is not good for them. What is your opinion?",
+                        "messageTranslation": "(Giới trẻ dành quá nhiều thời gian sử dụng máy tính. Một số người nói điều đó không tốt cho họ. Ý kiến của bạn thế nào?)",
+                        "sampleAnswer": "Nice to meet you! I think computers are very useful for young people. They can study, learn new skills, and find information. However, they should not use computers all day. They also need exercise and time with family and friends.",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Tôi nghĩ máy tính rất hữu ích cho người trẻ. Họ có thể học tập, rèn luyện kỹ năng mới và tìm kiếm thông tin. Tuy nhiên, họ không nên dùng máy tính cả ngày. Họ cũng cần tập thể dục và dành thời gian cho gia đình, bạn bè."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "business-club",
+            "name": "BUSINESS CLUB",
+            "part2": {
+                "question": "You are a new member of a Business club. Fill in the form. Write in sentences. Use 20 – 30 words.",
+                "questionTranslation": "(Bạn là thành viên mới của câu lạc bộ kinh doanh. Điền vào biểu mẫu. Viết thành các câu hoàn chỉnh. Sử dụng từ 20 – 30 từ.)",
+                "subQuestion": "Where do you usually go shopping?",
+                "subQuestionTranslation": "(Bạn thường đi mua sắm ở đâu?)",
+                "minWords": 20,
+                "maxWords": 30,
+                "sampleAnswer": "I usually shop at premium stores in the city center for business attire and essentials. For office supplies and gadgets, I prefer specialized outlets or online platforms that offer convenience.",
+                "sampleAnswerTranslation": "Tôi thường mua sắm tại các cửa hàng cao cấp ở trung tâm thành phố để mua trang phục công sở và vật dụng thiết yếu. Đối với văn phòng phẩm và thiết bị, tôi thích các cửa hàng chuyên dụng hoặc nền tảng trực tuyến vì tính tiện lợi."
+            },
+            "part3": {
+                "instruction": "You are a member of a Business Club. You are talking to three other members in the Business Club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
+                "instructionTranslation": "(Bạn là thành viên của câu lạc bộ kinh doanh. Bạn đang trò chuyện với 3 thành viên khác trong phòng chat. Trả lời họ bằng các câu hoàn chỉnh. Sử dụng từ 30 – 40 từ cho mỗi câu trả lời.)",
+                "minWords": 30,
+                "maxWords": 40,
+                "chats": [
+                    {
+                        "id": "A",
+                        "user": "Member A",
+                        "message": "I know there are a lot of successful small businesses these days. Tell me about a successful small business in your area.",
+                        "messageTranslation": "(Tôi biết dạo này có rất nhiều doanh nghiệp nhỏ thành công. Hãy kể cho tôi về một doanh nghiệp nhỏ thành công ở khu vực của bạn.)",
+                        "sampleAnswer": "Glad to talk to you! In my area, there is a small bakery that makes fresh bread and cakes daily. It became popular because of its quality and friendly service. Many people love it.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Ở khu vực của tôi có một tiệm bánh nhỏ làm bánh mì và bánh ngọt tươi mỗi ngày. Nó trở nên nổi tiếng nhờ chất lượng và dịch vụ thân thiện. Nhiều người rất thích nó."
+                    },
+                    {
+                        "id": "B",
+                        "user": "Member B",
+                        "message": "I have a friend who wants to open a second coffee shop. She opened her first one a year ago and it was quite successful. What advice do you have to help her be more successful in her second shop?",
+                        "messageTranslation": "(Tôi có một người bạn muốn mở quán cà phê thứ hai. Cô ấy mở quán đầu tiên cách đây một năm và khá thành công. Bạn có lời khuyên gì để giúp cô ấy thành công hơn ở quán thứ hai?)",
+                        "sampleAnswer": "Glad to talk to you! She should focus on keeping the same quality in the second shop and choose a good location. Advertising on social media can also help attract more customers to her business.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Cô ấy nên tập trung vào việc giữ nguyên chất lượng ở quán thứ hai và chọn một vị trí tốt. Quảng cáo trên mạng xã hội cũng có thể giúp thu hút thêm nhiều khách hàng cho công việc kinh doanh của cô ấy."
+                    },
+                    {
+                        "id": "C",
+                        "user": "Member C",
+                        "message": "Can you tell me what qualities and skills are needed to create a successful small business?",
+                        "messageTranslation": "(Bạn có thể cho tôi biết những phẩm chất và kỹ năng nào cần thiết để tạo nên một doanh nghiệp nhỏ thành công không?)",
+                        "sampleAnswer": "Nice to meet you! To create a successful small business, you need to be hardworking, patient, and creative. Good communication skills and the ability to solve problems quickly are also very important.",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Để tạo nên một doanh nghiệp nhỏ thành công, bạn cần chăm chỉ, kiên nhẫn và sáng tạo. Kỹ năng giao tiếp tốt và khả năng giải quyết vấn đề nhanh chóng cũng rất quan trọng."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "car-club",
+            "name": "CAR CLUB",
+            "part2": {
+                "question": "You are a new member of a car club. Fill in the form. Write in sentences. Use 20 – 30 words.",
+                "questionTranslation": "(Bạn là thành viên mới của câu lạc bộ ô tô. Điền vào biểu mẫu. Viết thành các câu hoàn chỉnh. Sử dụng từ 20 – 30 từ.)",
+                "subQuestion": "When was the last time you were in a car?",
+                "subQuestionTranslation": "(Lần cuối cùng bạn ngồi trong xe ô tô là khi nào?)",
+                "minWords": 20,
+                "maxWords": 30,
+                "sampleAnswer": "The last time I was in a car was yesterday evening. I traveled with my family to a nearby shopping mall to buy groceries and clothes for an upcoming family event.",
+                "sampleAnswerTranslation": "Lần cuối tôi ngồi trong ô tô là vào tối qua. Tôi đã cùng gia đình đến một trung tâm thương mại gần đó để mua thực phẩm và quần áo cho một sự kiện gia đình sắp tới."
+            },
+            "part3": {
+                "instruction": "You are a member of a car club. You are talking to three other members in the car club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
+                "instructionTranslation": "(Bạn là thành viên của câu lạc bộ ô tô. Bạn đang trò chuyện với 3 thành viên khác trong phòng chat. Trả lời họ bằng các câu hoàn chỉnh. Sử dụng từ 30 – 40 từ cho mỗi câu trả lời.)",
+                "minWords": 30,
+                "maxWords": 40,
+                "chats": [
+                    {
+                        "id": "A",
+                        "user": "Member A",
+                        "message": "I have just moved to this city. Should I buy a car or use public transportation?",
+                        "messageTranslation": "(Tôi vừa chuyển đến thành phố này. Tôi nên mua ô tô hay sử dụng phương tiện giao thông công cộng?)",
+                        "sampleAnswer": "Nice to meet you! I think it depends on your lifestyle and needs. If you travel short distances, public transportation is better. But if you need flexibility or travel far, buying a car could be helpful.",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Tôi nghĩ điều đó phụ thuộc vào lối sống và nhu cầu của bạn. Nếu di chuyển khoảng cách ngắn, giao thông công cộng sẽ tốt hơn. Nhưng nếu cần sự linh hoạt hoặc đi xa, mua ô tô sẽ rất có ích."
+                    },
+                    {
+                        "id": "B",
+                        "user": "Member B",
+                        "message": "Do you think owning a car is necessary in the city?",
+                        "messageTranslation": "(Bạn có nghĩ việc sở hữu một chiếc xe ô tô là cần thiết ở thành phố không?)",
+                        "sampleAnswer": "Glad to talk to you! I don’t think owning a car is necessary in the city. Public transportation is convenient and affordable. It helps reduce traffic and pollution. However, a car can be useful for emergencies or long-distance travel.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Tôi không nghĩ sở hữu ô tô là cần thiết ở thành phố. Giao thông công cộng rất tiện lợi và giá cả phải chăng. Nó giúp giảm ùn tắc và ô nhiễm. Tuy nhiên, ô tô có thể hữu ích trong trường hợp khẩn cấp hoặc đi xa."
+                    },
+                    {
+                        "id": "C",
+                        "user": "Member C",
+                        "message": "Some people believe that there should be a policy applied to cars to solve the transportation problem. What is your opinion?",
+                        "messageTranslation": "(Một số người tin rằng nên áp dụng một chính sách đối với ô tô để giải quyết vấn đề giao thông. Ý kiến của bạn là gì?)",
+                        "sampleAnswer": "Glad to talk to you! I agree that policies for cars can help solve transportation issues. Limiting the number of cars in crowded areas or encouraging carpooling can reduce traffic and pollution. It's a good idea.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Tôi đồng ý rằng các chính sách dành cho ô tô có thể giúp giải quyết các vấn đề giao thông. Giới hạn số lượng ô tô ở khu vực đông đúc hoặc khuyến khích đi chung xe có thể giảm ùn tắc và ô nhiễm. Đó là một ý tưởng hay."
+                    }
+                ]
+            }
+        }
+    ]
+}
