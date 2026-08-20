@@ -276,6 +276,190 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "museum-club",
+            "name": "MUSEUM CLUB",
+            "part2": {
+                "question": "You are a new member of a museum club. Fill in the form. Write in sentences. Use 20 – 30 words.",
+                "questionTranslation": "(Bạn là thành viên mới của câu lạc bộ bảo tàng. Điền vào biểu mẫu. Viết thành các câu hoàn chỉnh. Sử dụng từ 20 – 30 từ.)",
+                "subQuestion": "Tell me the last time you went to the museum?",
+                "subQuestionTranslation": "(Hãy kể cho tôi nghe lần gần đây nhất bạn đi bảo tàng là khi nào?)",
+                "minWords": 20,
+                "maxWords": 30,
+                "sampleAnswer": "The last time I went to the museum was last month. I visited an art museum, and it was an amazing experience seeing beautiful paintings and sculptures.",
+                "sampleAnswerTranslation": "Lần gần đây nhất tôi đi bảo tàng là vào tháng trước. Tôi đã ghé thăm một bảo tàng nghệ thuật, và đó là một trải nghiệm tuyệt vời khi được ngắm nhìn những bức tranh và tác phẩm điêu khắc đẹp mắt."
+            },
+            "part3": {
+                "instruction": "You are a member of a museum club. You are talking to three other members in the museum club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
+                "instructionTranslation": "(Bạn là thành viên của câu lạc bộ bảo tàng. Bạn đang trò chuyện với 3 thành viên khác trong phòng chat. Trả lời họ bằng các câu hoàn chỉnh. Sử dụng từ 30 – 40 từ cho mỗi câu trả lời.)",
+                "minWords": 30,
+                "maxWords": 40,
+                "chats": [
+                    {
+                        "id": "A",
+                        "user": "Member A",
+                        "message": "I went to the museum at school. How was the time when you visited the museum when you were a child?",
+                        "messageTranslation": "(Tôi đã đi thăm bảo tàng ở trường. Lần bạn đi thăm bảo tàng lúc còn nhỏ như thế nào?)",
+                        "sampleAnswer": "Glad to talk to you! When I was a child, I went to an art museum. I enjoyed looking at the colorful paintings and sculptures. It was a fun experience that sparked my interest in art.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Khi còn là một đứa trẻ, tôi đã đi thăm một bảo tàng nghệ thuật. Tôi rất thích ngắm nhìn những bức tranh và tượng điêu khắc đầy màu sắc. Đó là một trải nghiệm thú vị đã khơi gợi niềm yêu thích nghệ thuật trong tôi."
+                    },
+                    {
+                        "id": "B",
+                        "user": "Member B",
+                        "message": "I want to take my children to a museum but I don't know which, the History Museum or Sports Museum. Can you give me advice?",
+                        "messageTranslation": "(Tôi muốn đưa các con đi bảo tàng nhưng chưa biết chọn cái nào, Bảo tàng Lịch sử hay Bảo tàng Thể thao. Bạn có thể cho tôi lời khuyên không?)",
+                        "sampleAnswer": "Nice to meet you! I prefer sports museums because they are exciting and show the achievements of great athletes. They inspire me to stay active and appreciate the hard work in sports history.",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Tôi thích bảo tàng thể thao hơn vì chúng rất sôi động và trưng bày thành tựu của các vận động viên vĩ đại. Chúng truyền cảm hứng cho tôi sống năng động và trân trọng sự nỗ lực trong lịch sử thể thao."
+                    },
+                    {
+                        "id": "C",
+                        "user": "Member C",
+                        "message": "Some museums have added technologies like computer screens in their museum and this attracts more visitors. Why?",
+                        "messageTranslation": "(Một số bảo tàng đã thêm các công nghệ như màn hình máy tính vào bảo tàng của họ và điều này thu hút nhiều khách tham quan hơn. Tại sao?)",
+                        "sampleAnswer": "Glad to talk to you! I think museums use technology like screens and videos because it makes learning more fun and interactive. Visitors can enjoy exploring history and art in a modern, interesting way, which keeps them engaged.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Tôi nghĩ các bảo tàng sử dụng công nghệ như màn hình và video vì nó giúp việc học trở nên thú vị và tương tác hơn. Khách tham quan có thể thích thú khám phá lịch sử và nghệ thuật theo cách hiện đại, lôi cuốn, giúp họ luôn hứng thú."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "english-club",
+            "name": "ENGLISH CLUB",
+            "part2": {
+                "question": "You are a new member of an English club. Fill in the form. Write in sentences. Use 20 – 30 words.",
+                "questionTranslation": "(Bạn là thành viên mới của câu lạc bộ tiếng Anh. Điền vào biểu mẫu. Viết thành các câu hoàn chỉnh. Sử dụng từ 20 – 30 từ.)",
+                "subQuestion": "What do you usually use the internet for?",
+                "subQuestionTranslation": "(Bạn thường sử dụng internet để làm gì?)",
+                "minWords": 20,
+                "maxWords": 30,
+                "sampleAnswer": "I often use the internet to study English, watch educational videos, and connect with friends. It helps me improve my skills and learn new things quickly and easily every day.",
+                "sampleAnswerTranslation": "Tôi thường dùng internet để học tiếng Anh, xem các video giáo dục và kết nối với bạn bè. Nó giúp tôi cải thiện kỹ năng và học những điều mới một cách nhanh chóng, dễ dàng mỗi ngày."
+            },
+            "part3": {
+                "instruction": "You are a member of an English club. You are talking to three other members in the english club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
+                "instructionTranslation": "(Bạn là thành viên của câu lạc bộ tiếng Anh. Bạn đang trò chuyện với 3 thành viên khác trong phòng chat. Trả lời họ bằng các câu hoàn chỉnh. Sử dụng từ 30 – 40 từ cho mỗi câu trả lời.)",
+                "minWords": 30,
+                "maxWords": 40,
+                "chats": [
+                    {
+                        "id": "A",
+                        "user": "Member A",
+                        "message": "Since I'm not good at English, I have had or currently have a private tutor. Can you share some effective tips for learning English with me?",
+                        "messageTranslation": "(Vì tôi không giỏi tiếng Anh nên tôi đã hoặc đang có gia sư riêng. Bạn có thể chia sẻ một số mẹo học tiếng Anh hiệu quả với tôi không?)",
+                        "sampleAnswer": "Glad to talk to you! Learning English takes time, but small steps help a lot. When you enjoy the process, it becomes easier. Confidence grows with practice, and mistakes are just part of learning. Keep going!",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Học tiếng Anh cần thời gian, nhưng những bước nhỏ giúp ích rất nhiều. Khi bạn yêu thích quá trình này, mọi thứ sẽ trở nên dễ dàng hơn. Sự tự tin phát triển nhờ luyện tập, và lỗi sai chỉ là một phần của việc học. Cố lên!"
+                    },
+                    {
+                        "id": "B",
+                        "user": "Member B",
+                        "message": "Can you share some study tips to improve speaking skills in English?",
+                        "messageTranslation": "(Bạn có thể chia sẻ một số mẹo học tập để cải thiện kỹ năng nói tiếng Anh không?)",
+                        "sampleAnswer": "Nice to meet you! Improving a skill needs patience and practice. Understanding takes time, but every effort helps. The more you use English, the more natural it feels. Stay motivated, and you will see progress!",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Cải thiện một kỹ năng đòi hỏi sự kiên nhẫn và rèn luyện. Việc thấu hiểu cần có thời gian, nhưng mọi nỗ lực đều có ích. Bạn càng dùng tiếng Anh nhiều, nó càng trở nên tự nhiên. Hãy giữ động lực và bạn sẽ thấy sự tiến bộ!"
+                    },
+                    {
+                        "id": "C",
+                        "user": "Member C",
+                        "message": "Do you agree that language is an important part of expressing a country's cultural identity? Why?",
+                        "messageTranslation": "(Bạn có đồng ý rằng ngôn ngữ là một phần quan trọng để thể hiện bản sắc văn hóa của một quốc gia không? Tại sao?)",
+                        "sampleAnswer": "Glad to talk to you! Language and culture are closely connected. People express their identity through words and traditions. When a language is strong, the culture stays alive. That’s why learning a language means understanding its culture too!",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Ngôn ngữ và văn hóa gắn kết chặt chẽ với nhau. Con người thể hiện bản sắc của mình qua ngôn từ và truyền thống. Khi ngôn ngữ phát triển mạnh mẽ, văn hóa sẽ trường tồn. Đó là lý do tại sao học một ngôn ngữ cũng đồng nghĩa với việc hiểu về văn hóa của nó!"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "technology-club",
+            "name": "TECHNOLOGY CLUB",
+            "part2": {
+                "question": "You are a new member of a technology club. Fill in the form. Write in sentences. Use 20 – 30 words.",
+                "questionTranslation": "(Bạn là thành viên mới của câu lạc bộ công nghệ. Điền vào biểu mẫu. Viết thành các câu hoàn chỉnh. Sử dụng từ 20 – 30 từ.)",
+                "subQuestion": "What do you usually use a computer for?",
+                "subQuestionTranslation": "(Bạn thường sử dụng máy tính để làm gì?)",
+                "minWords": 20,
+                "maxWords": 30,
+                "sampleAnswer": "I usually use my laptop for studying, watching videos, and chatting with friends online. It helps me complete assignments, explore new topics, and stay connected with people.",
+                "sampleAnswerTranslation": "Tôi thường dùng máy tính xách tay để học tập, xem video và trò chuyện trực tuyến với bạn bè. Nó giúp tôi hoàn thành bài tập, khám phá các chủ đề mới và giữ liên lạc với mọi người."
+            },
+            "part3": {
+                "instruction": "You are a member of a technology club. You are talking to three other members in the technology club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
+                "instructionTranslation": "(Bạn là thành viên của câu lạc bộ công nghệ. Bạn đang trò chuyện với 3 thành viên khác trong phòng chat. Trả lời họ bằng các câu hoàn chỉnh. Sử dụng từ 30 – 40 từ cho mỗi câu trả lời.)",
+                "minWords": 30,
+                "maxWords": 40,
+                "chats": [
+                    {
+                        "id": "A",
+                        "user": "Member A",
+                        "message": "Have you ever had a bad experience with technology?",
+                        "messageTranslation": "(Bạn đã bao giờ gặp trải nghiệm tồi tệ với công nghệ chưa?)",
+                        "sampleAnswer": "Glad to talk to you! Actually, I had a terrible experience last month when my laptop suddenly crashed right before a deadline. I lost all my documents and had to stay up all night to rewrite everything from scratch.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Thực ra, tôi đã có một trải nghiệm tồi tệ vào tháng trước khi máy tính xách tay đột ngột bị hỏng ngay trước hạn nộp bài. Tôi mất hết tài liệu và phải thức cả đêm để viết lại mọi thứ từ đầu."
+                    },
+                    {
+                        "id": "B",
+                        "user": "Member B",
+                        "message": "Which do you prefer, watching films online or going to the cinema?",
+                        "messageTranslation": "(Bạn thích cái nào hơn, xem phim trực tuyến hay đi xem ở rạp?)",
+                        "sampleAnswer": "Nice to meet you! To be honest, I prefer watching films online at home. It’s more comfortable and I can save a lot of money. However, going to the cinema is still great for enjoying blockbuster movies with friends.",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Thành thật mà nói, tôi thích xem phim trực tuyến ở nhà hơn. Nó thoải mái hơn và tôi có thể tiết kiệm được nhiều tiền. Tuy nhiên, đi rạp chiếu phim vẫn rất tuyệt để thưởng thức các bộ phim bom tấn cùng bạn bè."
+                    },
+                    {
+                        "id": "C",
+                        "user": "Member C",
+                        "message": "Improvement in technology has made life easier. What do you think?",
+                        "messageTranslation": "(Sự cải tiến trong công nghệ đã làm cho cuộc sống dễ dàng hơn. Bạn nghĩ sao?)",
+                        "sampleAnswer": "Glad to talk to you! I totally agree with you. Technology has changed our lives in many ways, especially in communication and education. Now, I can easily connect with people worldwide or learn new things online without leaving my house.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Tôi hoàn toàn đồng ý với bạn. Công nghệ đã thay đổi cuộc sống của chúng ta theo nhiều cách, đặc biệt là trong giao tiếp và giáo dục. Giờ đây, tôi có thể dễ dàng kết nối với mọi người trên toàn thế giới hoặc học những điều mới trực tuyến mà không cần rời khỏi nhà."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "art-club",
+            "name": "ART CLUB",
+            "part2": {
+                "question": "You are a new member of an art club. Fill in the form. Write in sentences. Use 20 – 30 words.",
+                "questionTranslation": "(Bạn là thành viên mới của câu lạc bộ nghệ thuật. Điền vào biểu mẫu. Viết thành các câu hoàn chỉnh. Sử dụng từ 20 – 30 từ.)",
+                "subQuestion": "Have you ever drawn a special picture?",
+                "subQuestionTranslation": "(Bạn đã bao giờ vẽ một bức tranh đặc biệt nào chưa?)",
+                "minWords": 20,
+                "maxWords": 30,
+                "sampleAnswer": "Yes, I once drew a portrait of my grandmother on her birthday. It was very special because it reminded me of our happy moments together and helped me express my feelings through art.",
+                "sampleAnswerTranslation": "Có, tôi đã từng vẽ một bức chân dung của bà tôi nhân dịp sinh nhật bà. Nó rất đặc biệt vì nó gợi nhớ về những khoảnh khắc hạnh phúc của chúng tôi bên nhau và giúp tôi thể hiện cảm xúc của mình qua nghệ thuật."
+            },
+            "part3": {
+                "instruction": "You are a member of an art club. You are talking to three other members in the art club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
+                "instructionTranslation": "(Bạn là thành viên của câu lạc bộ nghệ thuật. Bạn đang trò chuyện với 3 thành viên khác trong phòng chat. Trả lời họ bằng các câu hoàn chỉnh. Sử dụng từ 30 – 40 từ cho mỗi câu trả lời.)",
+                "minWords": 30,
+                "maxWords": 40,
+                "chats": [
+                    {
+                        "id": "A",
+                        "user": "Member A",
+                        "message": "I really enjoy our art class. Tell me about a memorable experience you had there.",
+                        "messageTranslation": "(Tôi thực sự thích lớp học nghệ thuật của chúng ta. Hãy kể cho tôi về một trải nghiệm đáng nhớ của bạn ở đó.)",
+                        "sampleAnswer": "Nice to meet you! I remember the time we painted outdoors together. The weather was perfect, and everyone was focused on their work. I felt relaxed and inspired, and that day made me love art even more.",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Tôi nhớ lần chúng ta cùng nhau vẽ tranh ngoài trời. Thời tiết thật hoàn hảo, và mọi người đều tập trung vào tác phẩm của mình. Tôi cảm thấy thư thái và tràn đầy cảm hứng, và ngày hôm đó càng làm tôi yêu nghệ thuật hơn."
+                    },
+                    {
+                        "id": "B",
+                        "user": "Member B",
+                        "message": "I’m not sure whether I should paint in a traditional or modern style, as I’ll be leaving my hometown soon.",
+                        "messageTranslation": "(Tôi không chắc liệu mình nên vẽ theo phong cách truyền thống hay hiện đại, vì tôi sẽ sớm rời quê hương.)",
+                        "sampleAnswer": "Glad to talk to you! That is a difficult choice! In my opinion, you should paint in a traditional style. It is a wonderful way to remember your hometown and your family before you leave. These beautiful memories will always make you feel over the moon.",
+                        "sampleAnswerTranslation": "Rất vui được trò chuyện với bạn! Đó là một lựa chọn khó khăn! Theo tôi, bạn nên vẽ theo phong cách truyền thống. Đó là một cách tuyệt vời để ghi nhớ về quê hương và gia đình trước khi rời đi. Những kỷ niệm đẹp đẽ này sẽ luôn khiến bạn cảm thấy vô cùng hạnh phúc."
+                    },
+                    {
+                        "id": "C",
+                        "user": "Member C",
+                        "message": "Do you think museums should stay open for free so that more young people can visit?",
+                        "messageTranslation": "(Bạn có nghĩ các bảo tàng nên mở cửa miễn phí để có thêm nhiều người trẻ đến tham quan không?)",
+                        "sampleAnswer": "Nice to meet you! Yes, I believe museums should stay open for free. It gives young people more chances to learn about art and culture, and it helps them develop a deeper love for creativity.",
+                        "sampleAnswerTranslation": "Rất vui được gặp bạn! Có, tôi tin rằng các bảo tàng nên mở cửa miễn phí. Điều đó tạo cho giới trẻ nhiều cơ hội hơn để học hỏi về nghệ thuật và văn hóa, đồng thời giúp họ nuôi dưỡng tình yêu sâu sắc hơn đối với sự sáng tạo."
+                    }
+                ]
+            }
         }
     ]
 }
