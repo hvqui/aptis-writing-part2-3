@@ -57,8 +57,8 @@
                 "subQuestionTranslation": "(Bạn thường đọc sách khi nào và ở đâu?)",
                 "minWords": 20,
                 "maxWords": 30,
-                "sampleAnswer": "I usually read books in my school library. Additionally, I prefer reading books with my son in the evening at home.",
-                "sampleAnswerTranslation": "Tôi thường đọc sách ở thư viện trường. Ngoài ra, tôi thích đọc sách cùng con trai vào buổi tối ở nhà hơn."
+                "sampleAnswer": "I usually read books at my school library. Every evening, I prefer reading bedtime stories with my son at home.",
+                "sampleAnswerTranslation": "Tôi thường đọc sách tại thư viện trường. Vào mỗi buổi tối, tôi thích đọc truyện trước khi đi ngủ cùng con trai ở nhà hơn."
             },
             "part3": {
                 "instruction": "You are a member of a book club. You are talking to three other members in the book club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
@@ -241,8 +241,8 @@
                 "subQuestionTranslation": "(Hãy cho tôi biết tại sao bạn muốn tham gia câu lạc bộ?)",
                 "minWords": 20,
                 "maxWords": 30,
-                "sampleAnswer": "I want to join the sport club to improve my fitness and learn new skills. I enjoy staying active, meeting new people, and participating in fun sports activities. It’s a great opportunity!",
-                "sampleAnswerTranslation": "Tôi muốn tham gia câu lạc bộ thể thao để nâng cao thể lực và học thêm các kỹ năng mới. Tôi thích duy trì sự năng động, gặp gỡ những người bạn mới và tham gia vào các hoạt động thể thao thú vị. Đây là một cơ hội tuyệt vời!"
+                "sampleAnswer": "To be honest, I want to join the club because I love playing different sports and want to improve my sports skills.",
+                "sampleAnswerTranslation": "Thú thật là tôi muốn tham gia câu lạc bộ vì tôi thích chơi nhiều môn thể thao khác nhau và muốn cải thiện kỹ năng thể thao của mình."
             },
             "part3": {
                 "instruction": "You are a member of a sport club. You are talking to three other members in the sport club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
