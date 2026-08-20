@@ -57,8 +57,8 @@
                 "subQuestionTranslation": "(Bạn thường đọc sách khi nào và ở đâu?)",
                 "minWords": 20,
                 "maxWords": 30,
-                "sampleAnswer": "I usually read books at my school library. Every evening, I prefer reading bedtime stories with my son at home.",
-                "sampleAnswerTranslation": "Tôi thường đọc sách tại thư viện trường. Vào mỗi buổi tối, tôi thích đọc truyện trước khi đi ngủ cùng con trai ở nhà hơn."
+                "sampleAnswer": "I usually read books at my school library. Additionally, every evening, I prefer reading bedtime stories with my son at home.",
+                "sampleAnswerTranslation": "Tôi thường đọc sách tại thư viện trường. Ngoài ra, vào mỗi buổi tối, tôi thích đọc truyện trước khi đi ngủ cùng con trai ở nhà hơn."
             },
             "part3": {
                 "instruction": "You are a member of a book club. You are talking to three other members in the book club chat room. Talk to them using sentences. Use 30 – 40 words for each response.",
